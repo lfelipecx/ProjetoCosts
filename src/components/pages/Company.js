@@ -1,6 +1,6 @@
 function Company(){
     return(
-        <h1>Company</h1>
+        <h1>company page under construction</h1>
     )
 }
 
