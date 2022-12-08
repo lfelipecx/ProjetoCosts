@@ -8,16 +8,16 @@ function Footer(){
         <footer className={styles.footer}>
             <ul className={styles.social_list}>
                 <li className={styles.social_list}>
-                    <FaTwitter />
+                    <a href="https://twitter.com/Felipe_23_BfR"> <FaTwitter /> </a>
                 </li>
                 <li className={styles.social_list}>
-                    <FaInstagram />
+                    <a href="https://www.instagram.com/lfelipecx/"> <FaInstagram /> </a>
                 </li>
                 <li className={styles.social_list}>
-                    <FaLinkedin />
+                    <a href="https://www.linkedin.com/in/lfelipecx"> <FaLinkedin /> </a>
                 </li>
                 <li className={styles.social_list}>                    
-                    <FaGithub />                                     
+                    <a href="https://github.com/lfelipecx"> <FaGithub />  </a>                                   
                 </li>
             </ul>
             <p className={styles.copy_right}>

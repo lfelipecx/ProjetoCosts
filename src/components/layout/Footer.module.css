@@ -13,8 +13,16 @@
     cursor: pointer;
 }
 
+.social_list a{
+    color: #fff;
+}
+
+.social_list a:hover{
+    color: #ffbb33;
+}
+
 .social_list li:hover{
-    color: #ffbb33
+    color: #ffbb33;
 }
 
 .social_list svg{

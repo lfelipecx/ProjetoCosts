@@ -7,6 +7,7 @@ function NewProject(){
 
     const navigate = useNavigate()
 
+    //Rota para criar um projeto
     function createPost(project){
         //initialize cost and services
         project.cost = 0
