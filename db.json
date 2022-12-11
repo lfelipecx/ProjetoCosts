@@ -32,6 +32,28 @@
       "cost": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "Lavanderia",
+      "budget": "5000",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Design Cozinha Americana",
+      "budget": "7000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
     }
   ],
   "categories": [

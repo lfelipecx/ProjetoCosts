@@ -15,7 +15,8 @@
     background-color: #222;
     color: #ffbb33;
     padding: 0.4em;    
-    font-size: 1.3em; 
+    font-size: 1.3em;
+    text-align: center; 
 }
 
 .project_card p{
