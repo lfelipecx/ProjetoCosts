@@ -7,19 +7,19 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 300,
+      "cost": 800,
       "services": [
         {
-          "name": "teste de serviço",
-          "cost": "100",
-          "description": "teste 1",
-          "id": "a2819490-5e42-4ed7-aca7-f2107710f639"
+          "name": "teste",
+          "cost": "500",
+          "description": "teste",
+          "id": "652a2a0f-bf49-4f8e-b92a-b377e4d21d48"
         },
         {
           "name": "serviço 2",
-          "cost": "200",
-          "description": "teste 2",
-          "id": "0c2ae093-fd23-48e4-9a8f-1f8602ecc985"
+          "cost": "300",
+          "description": "serviço para contratar um designer",
+          "id": "1119ffb3-8901-4c27-98e1-01afe0465039"
         }
       ],
       "id": 1
@@ -103,6 +103,10 @@
     {
       "id": 4,
       "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "Pessoal"
     }
   ]
 }
