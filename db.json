@@ -31,8 +31,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 500,
+      "services": [
+        {
+          "name": "Primeiro serviço",
+          "cost": "500",
+          "description": "serviço para contratar um designer",
+          "id": "cd61cd80-d299-4a3d-943c-0caa1ca8f541"
+        }
+      ],
       "id": 3
     },
     {
